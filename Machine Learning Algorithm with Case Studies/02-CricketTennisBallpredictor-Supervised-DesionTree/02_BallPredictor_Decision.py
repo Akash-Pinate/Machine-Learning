@@ -46,7 +46,7 @@ def ball_predictor(weight: int = 40, surface: int = 1):
 
 # Main Entry function
 def main():
-    print("\n---- Cricket or Tennis Ball Predictor by  Jayadip Halake : ")
+    print("\n---- Cricket or Tennis Ball Predictor by  Akash Pinate : ")
     print("--- ML Type   : Supervised Learning ---- ")
     print("--- Algorithm : Decision tree ---- ")
 
